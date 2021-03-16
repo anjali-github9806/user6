@@ -11,12 +11,14 @@
 	<groupId>com.infy</groupId>
 	<artifactId>User_Service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>User_Service</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		
 	</properties>
 	
 	<dependencyManagement>
